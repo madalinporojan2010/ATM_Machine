@@ -1,15 +1,13 @@
 # ATM Machine
 
-<p>Fox Adventures is a platform game designed by me, made quite hard, meant for the ones that like a bit of a challenge.</p>
-<p>The game was made in two weeks for a high school project.</p>
-
+<p>A simple ATM Machine with withdraw, deposit and transfers between different accounts.</p>
 
 
 
 # Built with
-- Unity
-- C#
-
+- VHDL
+- VIVADO
+- LOGISIM
 
 # Author
 **Madalin Marian Porojan**
