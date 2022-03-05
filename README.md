@@ -1,6 +1,6 @@
 # ATM Machine
 
-<p>A simple ATM Machine with withdraw, deposit and transfers between different accounts.</p>
+<p>A simple ATM Machine with withdraw, deposit and transfers between different bank accounts.</p>
 
 
 
